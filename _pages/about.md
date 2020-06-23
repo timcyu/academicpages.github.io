@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi there! I’m Tim, an incoming Molecular & Cellular Biology PhD student at the University of Washington. I recently graduated with a BS in Bioengineering at UCLA, where my research was advised by [Sri Kosuri](http://www.kosurilab.org/) and [Tom Vallim](https://tarling-vallimlab.dgsom.ucla.edu/pages/). Formerly, I also spent a summer as a visiting researcher at the Ragon Institute of MGH, MIT, and Harvard, where I was advised by [Jishnu Das](https://www.immunology.pitt.edu/person/jishnu-das-phd) and [Galit Alter](https://www.ragoninstitute.org/portfolio-item/alter-lab/).
+Hi there! I’m Tim, an incoming Molecular & Cellular Biology PhD student at the University of Washington. I recently graduated from UCLA with a BS in Bioengineering. During my time there, I worked in the labs of [Sri Kosuri](http://www.kosurilab.org/) and [Tom Vallim](https://tarling-vallimlab.dgsom.ucla.edu/pages/). Formerly, I also spent a summer as a visiting researcher at the Ragon Institute of MGH, MIT, and Harvard, where I was advised by [Jishnu Das](https://www.immunology.pitt.edu/person/jishnu-das-phd) and [Galit Alter](https://www.ragoninstitute.org/portfolio-item/alter-lab/).
 
 Research Interests
 ------
@@ -15,7 +15,7 @@ My research interests are diverse, spanning over various fields including system
 
 Papers
 ------
-Multiplexed characterization of rationally designed promoter architectures deconstructs combinatorial logic for IPTG-inducible systems. (*in review*)<br/>
+**Multiplexed characterization of rationally designed promoter architectures deconstructs combinatorial logic for IPTG-inducible systems.** (*in review*)<br/>
 **Timothy C. Yu<sup>*</sup>**, Winnie L. Liu<sup>*</sup>, Marcia S. Brinck, Jessica E. Davis, Jeremy Shek, Grace Bower, Tal Einav, Kimberly D. Insigne, Rob Phillips, Sriram Kosuri, Guillaume Urtecho <br/>
 [bioRxiv Preprint](https://www.biorxiv.org/content/10.1101/2020.01.31.928689v1)
 ![Editing a markdown file for a talk](/images/induce.png)
