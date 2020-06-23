@@ -19,8 +19,8 @@ I am broadly interested in many science things.
 Papers
 ------
 ![Editing a markdown file for a talk](/images/editing-talk.png)
-How to create a beautiful citation 
-**Timothy C. Yu**, Tony Stark, Luke Skywalker
+How to create a beautiful citation<br/> 
+**Timothy C. Yu**, Tony Stark, Luke Skywalker<br/>
 [link](https://timcyu.github.io)
 
 Contact
