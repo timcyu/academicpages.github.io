@@ -9,7 +9,7 @@ redirect_from:
 ---
 About me
 ------
-Hi there! I’m Tim, an incoming Molecular & Cellular Biology PhD student at the University of Washington. I recently graduated from UCLA with a BS in Bioengineering. During my time there, I worked in the labs of [Sri Kosuri](http://www.kosurilab.org/) and [Tom Vallim](https://tarling-vallimlab.dgsom.ucla.edu/pages/). Formerly, I also spent time as a visiting researcher at the Ragon Institute of MGH, MIT, and Harvard, where I was advised by [Jishnu Das](https://www.immunology.pitt.edu/person/jishnu-das-phd) and [Galit Alter](https://www.ragoninstitute.org/portfolio-item/alter-lab/).
+Hi there! I’m Tim, an incoming PhD student at the University of Washington. I recently graduated from UCLA with a BS in Bioengineering. During my time there, I worked in the labs of [Sri Kosuri](http://www.kosurilab.org/) and [Tom Vallim](https://tarling-vallimlab.dgsom.ucla.edu/pages/). Formerly, I also spent time as a visiting researcher at the Ragon Institute of MGH, MIT, and Harvard, where I was advised by [Jishnu Das](https://www.immunology.pitt.edu/person/jishnu-das-phd) and [Galit Alter](https://www.ragoninstitute.org/portfolio-item/alter-lab/).
 
 Research interests
 ------
