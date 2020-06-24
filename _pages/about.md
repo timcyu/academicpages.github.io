@@ -17,10 +17,9 @@ My research interests are diverse, spanning over various fields including system
 
 Papers
 ------
-**Multiplexed characterization of rationally designed promoter architectures deconstructs combinatorial logic for IPTG-inducible systems.** (*in review*)<br/>
+**Multiplexed characterization of rationally designed promoter architectures deconstructs combinatorial logic for IPTG-inducible systems.** (*in review*, [bioRxiv Preprint](https://www.biorxiv.org/content/10.1101/2020.01.31.928689v1))<br/>
 **Timothy C. Yu<sup>*</sup>**, Winnie L. Liu<sup>*</sup>, Marcia S. Brinck, Jessica E. Davis, Jeremy Shek, Grace Bower, Tal Einav, Kimberly D. Insigne, Rob Phillips, Sriram Kosuri, Guillaume Urtecho <br/>
-[bioRxiv Preprint](https://www.biorxiv.org/content/10.1101/2020.01.31.928689v1)
-![Editing a markdown file for a talk](/images/induce.png)
+![induce_overview](/images/induce.png)
 
 Contact
 ------
