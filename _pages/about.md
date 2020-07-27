@@ -15,7 +15,7 @@ Research interests
 ------
 My research interests are diverse, spanning over various fields including systems biology, single-cell genomics, machine learning, and infectious diseases. 
 
-Previous work has been equivalently diverse. My projects have focused on employing massively parallel reporter assays to uncover new sequence-function relationships in *E. coli*, and applying supervised machine learning to 1) discover novel gene regulators of mammalian lipid metabolism, and 2) identify correlates of vaccine-mediated immunity to malaria.
+Previous work has been equivalently diverse. My projects have focused on employing massively parallel reporter assays to uncover new sequence-function relationships in *E. coli*, and applying machine learning to 1) discover novel gene regulators of mammalian lipid metabolism, and 2) identify correlates of vaccine-mediated immunity to malaria.
 
 Papers
 ------
