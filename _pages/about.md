@@ -13,8 +13,9 @@ Hi there! I’m an incoming PhD student at the University of Washington. I recen
 
 Research interests
 ------
-My research interests are diverse, spanning over various fields including systems biology, single-cell genomics, machine learning, and infectious diseases.   
-Previous work has been similarly multifaceted. My projects have involved using massively parallel reporter assays (MPRAs) to uncover new sequence-function relationships in *E. coli* and applying supervised machine learning to 1) discover novel gene regulators of mammalian lipid metabolism and 2) identify correlates of vaccine-mediated immunity to malaria.
+My research interests are diverse, spanning over various fields including systems biology, single-cell genomics, machine learning, and infectious diseases. 
+
+Previous work has been similarly diverse. My projects have involved using massively parallel reporter assays (MPRAs) to uncover new sequence-function relationships in *E. coli* and applying supervised machine learning to 1) discover novel gene regulators of mammalian lipid metabolism and 2) identify correlates of vaccine-mediated immunity to malaria.
 
 Papers
 ------
