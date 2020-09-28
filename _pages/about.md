@@ -9,13 +9,13 @@ redirect_from:
 ---
 About me
 ------
-Hi there! I’m an incoming PhD student at the University of Washington. I recently graduated from UCLA with a BS in Bioengineering. During my time there, I worked in the labs of [Sri Kosuri](http://www.kosurilab.org/) and [Tom Vallim](https://tarling-vallimlab.dgsom.ucla.edu/pages/). Formerly, I also spent time as a visiting researcher at the Ragon Institute of MGH, MIT, and Harvard, where I was advised by [Jishnu Das](https://www.immunology.pitt.edu/person/jishnu-das-phd) and [Galit Alter](https://www.ragoninstitute.org/portfolio-item/alter-lab/). I'm originally from Shrewsbury, Massachusetts but spent most of my teens living in Shanghai, China.
+Hi there! I’m a PhD student at the University of Washington. I recently graduated from UCLA with a BS in Bioengineering. During my time there, I worked in the labs of [Sri Kosuri](http://www.kosurilab.org/) and [Tom Vallim](https://tarling-vallimlab.dgsom.ucla.edu/pages/). Formerly, I also spent time as a visiting researcher at the Ragon Institute of MGH, MIT, and Harvard, where I was advised by [Jishnu Das](https://www.immunology.pitt.edu/person/jishnu-das-phd) and [Galit Alter](https://www.ragoninstitute.org/portfolio-item/alter-lab/). I'm originally from Shrewsbury, Massachusetts but spent most of my teens living in Shanghai, China.
 
 Research interests
 ------
 My research interests are diverse, spanning over various fields including systems biology, single-cell genomics, machine learning, and infectious diseases. 
 
-Previous work has been equivalently diverse. My projects have focused on employing massively parallel reporter assays to uncover new sequence-function relationships in *E. coli*, and applying machine learning to 1) discover novel gene regulators of mammalian lipid metabolism, and 2) identify correlates of vaccine-mediated immunity to malaria.
+My previous work has been equally diverse. My projects have focused on employing massively parallel reporter assays to uncover new sequence-function relationships in *E. coli*, and applying machine learning to 1) discover novel gene regulators of mammalian lipid metabolism, and 2) identify correlates of vaccine-mediated immunity to malaria.
 
 Papers
 ------
@@ -25,4 +25,4 @@ Papers
 
 Contact
 ------
-Lets chat! I can be reached by email at timyu98@g.ucla.edu. 
+Lets chat! I can be reached by email at timcyu@uw.edu. 
